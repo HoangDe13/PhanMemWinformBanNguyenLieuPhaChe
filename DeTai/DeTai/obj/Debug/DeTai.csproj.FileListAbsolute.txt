@@ -1,0 +1,36 @@
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai.exe.config
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai.exe
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai.pdb
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.csprojAssemblyReference.cache
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Admin.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.DoiMK.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Form1.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Main.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Properties.Resources.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.csproj.GenerateResource.cache
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.csproj.CoreCompileInputs.cache
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.exe
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.pdb
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai1.mdf
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai1_log.ldf
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.HoaDon.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.KiemTraAdmin.resources
+D:\Nam 2\Lap Trinh Windows\DeTai\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.BaoCaoCa.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai1.mdf
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai1_log.ldf
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai.exe.config
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai.exe
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\bin\Debug\DeTai.pdb
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Admin.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.BaoCaoCa.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.DoiMK.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Form1.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.HoaDon.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.KiemTraAdmin.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Main.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.exe
+C:\Users\ASUS\Desktop\DeTaiWinform\DeTai\DeTai\obj\Debug\DeTai.pdb
